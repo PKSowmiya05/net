@@ -1,0 +1,27 @@
+.movie-detail {
+    background-color: #111;
+    color: white;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .movie-detail img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .movie-detail h2 {
+    color: #e50914;
+    margin-bottom: 10px;
+  }
+  
+  .movie-detail .back-btn {
+    background-color: transparent;
+    border: none;
+    color: #e50914;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
